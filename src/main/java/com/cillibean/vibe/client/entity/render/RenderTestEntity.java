@@ -15,6 +15,7 @@ public class RenderTestEntity extends MobRenderer<TestEntity, PigModel<TestEntit
 
     public RenderTestEntity(EntityRendererManager renderManagerIn, PigModel<TestEntity> entityModelIn, float shadowSizeIn) {
         super(renderManagerIn, entityModelIn, shadowSizeIn);
+        //Bazinga
     }
 
     @Override
